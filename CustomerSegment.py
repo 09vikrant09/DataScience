@@ -1,8 +1,7 @@
+###Open only in Spyder
 # -*- coding: utf-8 -*-
 """
 Created on Tue Aug 16 16:10:35 2022
-
-@author: 
 """
 # Importing Libraries
 import os
